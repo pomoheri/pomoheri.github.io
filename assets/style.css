@@ -1,0 +1,38 @@
+body{
+font-family: system-ui;
+background:#0f172a;
+color:#e2e8f0;
+margin:0;
+}
+
+.container{
+max-width:800px;
+margin:auto;
+padding:40px;
+}
+
+.header{
+background:#020617;
+padding:20px;
+}
+
+.header a{
+color:white;
+margin-right:20px;
+text-decoration:none;
+}
+
+article h1{
+margin-bottom:10px;
+}
+
+.meta{
+color:#94a3b8;
+font-size:14px;
+}
+
+.footer{
+text-align:center;
+padding:30px;
+color:#64748b;
+}

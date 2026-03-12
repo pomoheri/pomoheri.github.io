@@ -1,13 +1,13 @@
 ---
-title: My First Developer Note
+layout: post
+title: Docker Research
 date: 2026-03-12
 ---
 
-Hari ini aku mulai membuat blog untuk mencatat research backend.
+Hari ini aku mencoba eksperimen Docker.
 
-Stack yang sering aku pakai:
+Stack:
 
-- Docker
 - Node.js
+- Redis
 - MySQL
-- Laravel
